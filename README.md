@@ -16,4 +16,4 @@ A fast-paced endless runner game where players navigate obstacles and collect it
 - **Mobile**: Swipe left/right to change lanes and tap to jump.
 
 ## Screenshots
-![Gameplay Screenshot](Gameplay/Screenshot/Game.png)
+![Gameplay Screenshot](Game.png)
