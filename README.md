@@ -14,7 +14,7 @@ A simple fast-paced endless runner game where players navigate obstacles and col
 - **Mobile**: Swipe left/right to change lanes and swipe up to jump.
 
 ## Screenshots
-![Gameplay Screenshot](MainMenu.png)
+![Gameplay Screenshot](Screenshots/MainMenu.png)
 ![Gameplay Screenshot](Settings.png)
 ![Gameplay Screenshot](InGame.png)
 ![Gameplay Screenshot](PauseMenu.png)
