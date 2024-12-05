@@ -15,7 +15,7 @@ A simple fast-paced endless runner game where players navigate obstacles and col
 
 ## Screenshots
 ![Gameplay Screenshot](Screenshots/MainMenu.png)
-![Gameplay Screenshot](Settings.png)
-![Gameplay Screenshot](InGame.png)
-![Gameplay Screenshot](PauseMenu.png)
-![Gameplay Screenshot](OnDeath.png)
+![Gameplay Screenshot](Screenshots/Settings.png)
+![Gameplay Screenshot](Screenshots/InGame.png)
+![Gameplay Screenshot](Screenshots/PauseMenu.png)
+![Gameplay Screenshot](Screenshots/OnDeath.png)
