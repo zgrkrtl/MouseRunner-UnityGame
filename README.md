@@ -1,5 +1,5 @@
 # Mouse Runner Game
-A fast-paced endless runner game where players navigate obstacles and collect items to survive!
+A simple fast-paced endless runner game where players navigate obstacles and collect items to survive!
 
 ## Features
 - Procedural level generation
@@ -8,8 +8,6 @@ A fast-paced endless runner game where players navigate obstacles and collect it
 
 ## Technologies Used
 - Unity 2022.2.1f1 (C#)
-- TextMeshPro for UI
-- Cinemachine for camera control
 
 ## How to Play
 - **PC**: Use arrow keys to move left and right, spacebar to jump.
