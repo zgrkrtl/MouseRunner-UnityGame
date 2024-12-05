@@ -13,7 +13,11 @@ A fast-paced endless runner game where players navigate obstacles and collect it
 
 ## How to Play
 - **PC**: Use arrow keys to move left and right, spacebar to jump.
-- **Mobile**: Swipe left/right to change lanes and tap to jump.
+- **Mobile**: Swipe left/right to change lanes and swipe up to jump.
 
 ## Screenshots
-![Gameplay Screenshot](Game.png)
+![Gameplay Screenshot](MainMenu.png)
+![Gameplay Screenshot](Settings.png)
+![Gameplay Screenshot](InGame.png)
+![Gameplay Screenshot](PauseMenu.png)
+![Gameplay Screenshot](OnDeath.png)
