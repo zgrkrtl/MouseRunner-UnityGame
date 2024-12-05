@@ -1,6 +1,5 @@
 # Mouse Runner Game
-A simple fast-paced endless runner game where players navigate obstacles and collect items to survive!
-
+A simple fast-paced endless runner game where player-mouse character navigate obstacles and collect items and avoid obstacles
 ## Features
 - Procedural level generation
 - Mobile and PC compatibility
