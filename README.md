@@ -17,7 +17,7 @@ A fast-paced endless runner game where players navigate obstacles and collect it
 
 ## Screenshots
 ![Gameplay Screenshot](MainMenu.png)
-![Gameplay Screenshot](/ScreenShots/Settings.png)
-![Gameplay Screenshot](/ScreenShots/InGame.png)
-![Gameplay Screenshot](/ScreenShots/PauseMenu.png)
-![Gameplay Screenshot](/ScreenShots/OnDeath.png)
+![Gameplay Screenshot](Settings.png)
+![Gameplay Screenshot](InGame.png)
+![Gameplay Screenshot](PauseMenu.png)
+![Gameplay Screenshot](OnDeath.png)
